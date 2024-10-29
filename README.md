@@ -8,6 +8,10 @@ Capstone
         DatabaseConnection.java
         DatabaseInitializer.java
         Main.java
+        User.java
+        UserDAO.java
+        Question.java
+        QuestionDAO.java
   Referenced Libraries
     hsqldb.jar
   build
