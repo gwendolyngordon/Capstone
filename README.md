@@ -12,6 +12,10 @@ Capstone
         UserDAO.java
         Question.java
         QuestionDAO.java
+        UserAnswer.java
+        UserAnswerDAO.java
+        Progress.java
+        ProgressDAO.java
   Referenced Libraries
     hsqldb.jar
   build
